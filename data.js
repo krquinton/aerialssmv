@@ -33,19 +33,19 @@ var APP_DATA = {
           "yaw": -2.1524824308229196,
           "pitch": 0.3918965756110495,
           "rotation": 0,
-          "target": "1-block-6"
+          "target": "1-dji_0237"
         },
         {
           "yaw": -1.822958233279742,
           "pitch": 0.1963910871103458,
           "rotation": 0,
-          "target": "2-orminter"
+          "target": "2-dji_0238"
         },
         {
           "yaw": -3.0584208940408164,
           "pitch": 0.32457702239967645,
           "rotation": 0,
-          "target": "3-block-6---vacant-lot"
+          "target": "3-dji_0239"
         }
       ],
       "infoHotspots": [
@@ -96,7 +96,7 @@ var APP_DATA = {
           "yaw": -0.08031505433575958,
           "pitch": 0.08715727968954035,
           "rotation": 0,
-          "target": "3-block-6---vacant-lot"
+          "target": "3-dji_0239"
         }
       ],
       "infoHotspots": [
@@ -141,13 +141,13 @@ var APP_DATA = {
           "yaw": -2.8033786109311407,
           "pitch": 0.31708114843554824,
           "rotation": 0,
-          "target": "1-block-6"
+          "target": "1-dji_0237"
         },
         {
           "yaw": -2.268557738559462,
           "pitch": 0.18451946008461384,
           "rotation": 0,
-          "target": "3-block-6---vacant-lot"
+          "target": "3-dji_0239"
         }
       ],
       "infoHotspots": []
@@ -185,19 +185,19 @@ var APP_DATA = {
           "yaw": 0.05830682731867398,
           "pitch": 0.38866125064255463,
           "rotation": 0,
-          "target": "1-block-6"
+          "target": "1-dji_0237"
         },
         {
           "yaw": 1.1087094529586068,
           "pitch": 0.23866655783795743,
           "rotation": 0,
-          "target": "0-smv-plaza"
+          "target": "0-dji_0263"
         },
         {
           "yaw": -0.048716779170908,
           "pitch": 0.1648010024802069,
           "rotation": 0,
-          "target": "2-orminter"
+          "target": "2-dji_0238"
         }
       ],
       "infoHotspots": []
