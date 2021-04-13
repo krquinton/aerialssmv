@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-dji_0263",
-      "name": "SMV Plaza",
+      "id": "0-dji_263",
+      "name": "DJI_263",
       "levels": [
         {
           "tileSize": 256,
@@ -33,19 +33,19 @@ var APP_DATA = {
           "yaw": -2.1524824308229196,
           "pitch": 0.3918965756110495,
           "rotation": 0,
-          "target": "1-dji_0237"
+          "target": "1-dji_237"
         },
         {
           "yaw": -1.822958233279742,
           "pitch": 0.1963910871103458,
           "rotation": 0,
-          "target": "2-dji_0238"
+          "target": "2-dji_238"
         },
         {
           "yaw": -3.0584208940408164,
           "pitch": 0.32457702239967645,
           "rotation": 0,
-          "target": "3-dji_0239"
+          "target": "3-dji_239"
         }
       ],
       "infoHotspots": [
@@ -58,8 +58,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-dji_0237",
-      "name": "Block 6",
+      "id": "1-dji_237",
+      "name": "DJI_237",
       "levels": [
         {
           "tileSize": 256,
@@ -90,13 +90,13 @@ var APP_DATA = {
           "yaw": -1.4602057682511624,
           "pitch": 0.03114691818864479,
           "rotation": 0,
-          "target": "0-smv-plaza"
+          "target": "0-dji_263"
         },
         {
           "yaw": -0.08031505433575958,
           "pitch": 0.08715727968954035,
           "rotation": 0,
-          "target": "3-dji_0239"
+          "target": "3-dji_239"
         }
       ],
       "infoHotspots": [
@@ -109,8 +109,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-dji_0238",
-      "name": "Orminter",
+      "id": "2-dji_238",
+      "name": "DJI_238",
       "levels": [
         {
           "tileSize": 256,
@@ -141,20 +141,20 @@ var APP_DATA = {
           "yaw": -2.8033786109311407,
           "pitch": 0.31708114843554824,
           "rotation": 0,
-          "target": "1-dji_0237"
+          "target": "1-dji_237"
         },
         {
           "yaw": -2.268557738559462,
           "pitch": 0.18451946008461384,
           "rotation": 0,
-          "target": "3-dji_0239"
+          "target": "3-dji_239"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-dji_0239",
-      "name": "Block 6 - Vacant Lot",
+      "id": "3-dji_239",
+      "name": "DJI_239",
       "levels": [
         {
           "tileSize": 256,
@@ -185,25 +185,25 @@ var APP_DATA = {
           "yaw": 0.05830682731867398,
           "pitch": 0.38866125064255463,
           "rotation": 0,
-          "target": "1-dji_0237"
+          "target": "1-dji_237"
         },
         {
           "yaw": 1.1087094529586068,
           "pitch": 0.23866655783795743,
           "rotation": 0,
-          "target": "0-dji_0263"
+          "target": "0-dji_263"
         },
         {
           "yaw": -0.048716779170908,
           "pitch": 0.1648010024802069,
           "rotation": 0,
-          "target": "2-dji_0238"
+          "target": "2-dji_238"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "SMV Virtual Tour Sample",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
