@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-smv-plaza",
+      "id": "0-dji_0263",
       "name": "SMV Plaza",
       "levels": [
         {
@@ -58,7 +58,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-block-6",
+      "id": "1-dji_0237",
       "name": "Block 6",
       "levels": [
         {
@@ -109,7 +109,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-orminter",
+      "id": "2-dji_0238",
       "name": "Orminter",
       "levels": [
         {
@@ -153,7 +153,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-block-6---vacant-lot",
+      "id": "3-dji_0239",
       "name": "Block 6 - Vacant Lot",
       "levels": [
         {
